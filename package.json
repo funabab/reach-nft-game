@@ -1,0 +1,9 @@
+{
+  "name": "reach-nft-game",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "REACH_CONNECTOR_MODE=ALGO-devnet ./reach run ./src "
+  },
+  "author": "funabab",
+  "license": "MIT"
+}
